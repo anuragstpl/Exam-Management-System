@@ -1,0 +1,11 @@
+E:\Student Jobs\DotNet\Exam Management\OnlineBidding\OnlineExam\bin\OnlineBidding.dll
+E:\Student Jobs\DotNet\Exam Management\OnlineBidding\OnlineExam\bin\OnlineBidding.pdb
+E:\Student Jobs\DotNet\Exam Management\OnlineBidding\OnlineExam\bin\DataLayer.dll
+E:\Student Jobs\DotNet\Exam Management\OnlineBidding\OnlineExam\bin\EntityLayer.dll
+E:\Student Jobs\DotNet\Exam Management\OnlineBidding\OnlineExam\bin\EntityFramework.dll
+E:\Student Jobs\DotNet\Exam Management\OnlineBidding\OnlineExam\bin\DataLayer.pdb
+E:\Student Jobs\DotNet\Exam Management\OnlineBidding\OnlineExam\bin\EntityLayer.pdb
+E:\Student Jobs\DotNet\Exam Management\OnlineBidding\OnlineExam\bin\EntityFramework.xml
+E:\Student Jobs\DotNet\Exam Management\OnlineBidding\OnlineExam\obj\Debug\OnlineExamination.csprojResolveAssemblyReference.cache
+E:\Student Jobs\DotNet\Exam Management\OnlineBidding\OnlineExam\obj\Debug\OnlineBidding.dll
+E:\Student Jobs\DotNet\Exam Management\OnlineBidding\OnlineExam\obj\Debug\OnlineBidding.pdb

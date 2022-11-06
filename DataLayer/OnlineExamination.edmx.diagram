@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="2.0" xmlns:edmx="http://schemas.microsoft.com/ado/2008/10/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2008/10/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="9f7eeaca6dfe45f2bdb91f0f4b48d429" Name="Diagram1">
+        <EntityTypeShape EntityType="ExamSystemModel.User" Width="1.5" PointX="11.022680388308448" PointY="13.791670403346267" />
+        <EntityTypeShape EntityType="ExamSystemModel.Questionnaire" Width="1.5" PointX="6.125" PointY="1.625" />
+        <EntityTypeShape EntityType="ExamSystemModel.Answer" Width="1.5" PointX="4" PointY="2.125" />
+        <EntityTypeShape EntityType="ExamSystemModel.Question" Width="1.5" PointX="9" PointY="1.875" />
+        <EntityTypeShape EntityType="ExamSystemModel.Result" Width="1.5" PointX="6.375" PointY="4" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>
